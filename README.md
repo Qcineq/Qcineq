@@ -1,4 +1,3 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://github.com/Qcineq)
 <h1 align="center">Hi 👋, I'm Jakub Kucinski</h1>
 <h3 align="center">I am an aspiring iOS developer from Warsaw, Poland</h3>
 <p align="center">
